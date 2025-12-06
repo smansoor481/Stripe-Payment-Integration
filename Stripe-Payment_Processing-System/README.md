@@ -139,7 +139,3 @@ Building production-like payment workflows (refunds, disputes, reconciliation).
 Working with Spring Boot Webhooks.
 Designing secure, real-time fintech systems.
 
-👤 Author
-Vivek Vishwakarma
-Java Full Stack Developer
-[LinkedIn](https://www.linkedin.com/in/vivek-vishwakarma-) | [GitHub](https://github.com/VivekVishwakarma12345) | [BitBucket](https://bitbucket.org/spspismain/stripe-psp-integration/src/main/)
